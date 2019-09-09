@@ -1,6 +1,6 @@
 # BAB Developer Objective Task - Fall 2019
 ## Introduction
-Welcome to the Blockchain @ Berkeley objective task for Developers. Good luck!
+Welcome to the Blockchain @ Berkeley objective task for Developers. This task is due this Friday at 11:59pm!
 
 ## The Tasks
 You are given 3 tasks. Please complete 2/3 of them to receive full points. Make sure you are able to explain your thought process behind your solution. Lastly, this is not a collaborative task, so please do not work with others or plagiarize any code. 
