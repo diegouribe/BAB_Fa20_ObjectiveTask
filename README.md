@@ -21,7 +21,7 @@ Good luck and email harika@blockchain.berkeley.edu if you have questions.
 ## Submission Instructions
 *DO NOT FORK THIS REPO,* SOLUTIONS THAT ARE PUBLIC WILL BE DISQUALIFED. We ask that you do not share any solutions and work alone.
 
-Instead, zip up the contents of the root of this repo and submit those using a google form: https://goo.gl/forms/VhOU3110yQLvLfY72. Only submit completed tasks in the zip.
+Instead, zip up the contents of the root of this repo and submit those using a google form: https://forms.gle/6sLein6bYPkUqnd18. Only submit completed tasks in the zip.
 
 Do not change or rename the folder structure. We will be running autograders on these and if the format fails then we will not accept them as valid solutions.
 
