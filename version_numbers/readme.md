@@ -16,4 +16,4 @@ You may assume the default revision number for each level of a version number to
 ## Running Tests
 Run tests by opening a terminal and typing `python3 test_versions.py`.
 
-Writing your own tests is not required but highly recommended. All that matters is passing the provided test cases.
+Writing your own tests is not required but highly recommended. Your code is expected to pass all cases, not just the provided test cases.
