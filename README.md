@@ -3,7 +3,7 @@
 Welcome to the Blockchain @ Berkeley objective task for Developers. This task is due this Friday at 11:59pm!
 
 ## The Tasks
-You are given 3 tasks. Please complete 2/3 of them to receive full points. Make sure you are able to explain your thought process behind your solution. Lastly, this is not a collaborative task, so please do not work with others or plagiarize any code. 
+You are given 2 tasks. Please complete them both receive full points. Make sure you are able to explain your thought process behind your solution. Lastly, this is not a collaborative task, so please do not work with others or plagiarize any code. 
 
 For the coding questions, write solutions in Python 3 such that you pass the provided test cases and any test cases you can come up on your own. Remember, the code you write should provide the correct solution for all cases, not just the provided examples. 
 
@@ -21,7 +21,7 @@ Good luck and email harika@blockchain.berkeley.edu if you have questions.
 ## Submission Instructions
 *DO NOT FORK THIS REPO,* SOLUTIONS THAT ARE PUBLIC WILL BE DISQUALIFED. We ask that you do not share any solutions and work alone.
 
-Instead, zip up the contents of the root of this repo and submit those using a google form: https://forms.gle/6sLein6bYPkUqnd18. Only submit completed tasks in the zip.
+Instead, zip up the contents of the root of this repo and submit those using a google form: https://forms.gle/peswm29n6R8QcsZv6. Only submit completed tasks in the zip.
 
 Do not change or rename the folder structure. We will be running autograders on these and if the format fails then we will not accept them as valid solutions.
 
