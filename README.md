@@ -14,7 +14,7 @@ If you are missing any relevant packages that are imported into the files by def
 ## Words of Encouragement
 This is for us to gauge your level of comfort with various coding concepts, as well as your willingness to go out of your way to learn new things. We promise that the rest is much more relaxed. If you are an underclassman and you don't understand some of these question - that's fine, but you should keep trying until you simply can't solve it.
 
-Upperclassmen, you've probably seen more difficult questions, so we hope that you can answer at least 2 of these questions reasonably well.
+Upperclassmen, you've probably seen more difficult questions, so we hope that you can answer these questions reasonably well.
 
 Good luck and email harika@blockchain.berkeley.edu if you have questions.
 
