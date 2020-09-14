@@ -21,7 +21,7 @@ Good luck and email diego.uribe@berkeley.edu if you have questions.
 ## Submission Instructions
 *DO NOT FORK THIS REPO,* SOLUTIONS THAT ARE PUBLIC WILL BE DISQUALIFED. We ask that you do not share any solutions and work alone.
 
-Instead, zip up the contents of the root of this repo and submit those using a google form: https://forms.gle/peswm29n6R8QcsZv6. Only submit completed tasks in the zip.
+Instead, zip up the contents of the root of this repo and submit those using a google form: https://forms.gle/wUW34hFuUuGzRwEA8. Only submit completed tasks in the zip.
 
 Do not change or rename the folder structure. We will be running autograders on these and if the format fails then we will not accept them as valid solutions.
 
