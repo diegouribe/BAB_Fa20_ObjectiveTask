@@ -1,4 +1,4 @@
-# BAB Developer Objective Task - Fall 2019
+# BAB Developer Objective Task - Fall 2020
 ## Introduction
 Welcome to the Blockchain @ Berkeley objective task for Developers. This task is due this Friday at 11:59pm!
 
@@ -16,7 +16,7 @@ This is for us to gauge your level of comfort with various coding concepts, as w
 
 Upperclassmen, you've probably seen more difficult questions, so we hope that you can answer these questions reasonably well.
 
-Good luck and email harika@blockchain.berkeley.edu if you have questions.
+Good luck and email diego.uribe@berkeley.edu if you have questions.
 
 ## Submission Instructions
 *DO NOT FORK THIS REPO,* SOLUTIONS THAT ARE PUBLIC WILL BE DISQUALIFED. We ask that you do not share any solutions and work alone.
