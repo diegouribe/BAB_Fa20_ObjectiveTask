@@ -12,9 +12,11 @@ For the coding questions, write solutions in Python 3 such that you pass the pro
 If you are missing any relevant packages that are imported into the files by default, you can install them using `pip3`.
 
 ## Words of Encouragement
-This is for us to gauge your level of comfort with various coding concepts, as well as your willingness to go out of your way to learn new things. We promise that the rest is much more relaxed. If you are an underclassman and you don't understand some of these question - that's fine, but you should keep trying until you simply can't solve it.
+This is for us to gauge your level of comfort with various coding concepts, as well as your willingness to go out of your way to learn new things. We promise that the rest is much more relaxed. If you are an underclassman and you don't understand some of these question - that's fine, but you should keep trying and come to office hours if you need help!
 
 Upperclassmen, you've probably seen more difficult questions, so we hope that you can answer these questions reasonably well.
+
+Also, please find a walkthrough video of the technical task here: https://drive.google.com/file/d/1LZg124M-PCPOCtGS9g0npAyiGEtbXC_p/view?usp=sharing
 
 Good luck and email diego.uribe@berkeley.edu if you have questions.
 
