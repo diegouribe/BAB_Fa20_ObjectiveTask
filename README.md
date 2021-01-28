@@ -1,6 +1,6 @@
-# BAB Developer Objective Task - Fall 2020
+# BAB Developer Objective Task - Spring 2021
 ## Introduction
-Welcome to the Blockchain @ Berkeley objective task for Developers. This task is due this Friday 09/18/2020 at 11:59pm!
+Welcome to the Blockchain @ Berkeley objective task for Developers. This task is due this Friday 02/05/2021 at 11:59pm!
 
 ## The Tasks
 You are given 2 tasks. Please complete them both receive full points. Make sure you are able to explain your thought process behind your solution. Lastly, this is not a collaborative task, so please do not work with others or plagiarize any code. 
